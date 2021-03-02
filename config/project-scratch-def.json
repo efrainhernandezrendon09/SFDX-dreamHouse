@@ -1,0 +1,26 @@
+{
+    "orgName": "Acme",
+    "edition": "Enterprise",
+    "features": ["Communities", "ServiceCloud", "MarketingUser", "EinsteinAnalyticsPlus", "IoT"],
+    "language": "es",
+    "settings": {
+        "accountSettings": {
+            "enableRelateContactToMultipleAccounts": true
+        },
+        "communitiesSettings": {
+            "enableNetworksEnabled": true
+        },
+        "mobileSettings": {
+            "enableS1EncryptedStoragePref2": true
+        },
+        "omniChannelSettings": {
+            "enableOmniChannel": true
+        },
+        "caseSettings": {
+            "systemUserEmail": "support@acme.com"
+        },
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        }
+    }
+}
